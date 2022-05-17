@@ -26,8 +26,28 @@ class SignUpForm extends React.Component{
         this.setState({[name] : value}, () => {this.validateFields(name,value)})
     }
 
+    checkEmail = (value) => {
+
+    }
+
     validateFields = (name, value) => {
-        
+        let fieldValidationErrors = this.state.formError;
+        let usernameValid = this.state.usernameValid;
+        let emailValid = this.state.emailValid;
+        let passwordValid = this.state.passwordValid;
+        let confirm_passwordValid = this.state.confirm_passwordValid;
+
+        switch(name) {
+            case 'username':
+                
+                break;
+            case 'email':
+                break;
+            case 'password':
+                break;
+            case 'confirm_password':
+                break;
+        }
     }
 
     onButtonSubmit= (e) => {
