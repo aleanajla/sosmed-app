@@ -1,5 +1,44 @@
 {
   "users": [
-    
+    {
+      "username": "aleanajla12",
+      "email": "aleanajla12@gmail.com",
+      "password": "Alea120802*",
+      "fullname": "",
+      "bio": "",
+      "profile_picture": "",
+      "verifiedStatus": false,
+      "id": 1
+    },
+    {
+      "username": "martinus23",
+      "email": "idiotcolony97@gmail.com",
+      "password": "Martinus9720*",
+      "fullname": "",
+      "bio": "",
+      "profile_picture": "",
+      "verifiedStatus": false,
+      "id": 2
+    },
+    {
+      "username": "audrey12",
+      "email": "audrey23@gmail.com",
+      "password": "Audrey123*",
+      "fullname": "",
+      "bio": "",
+      "profile_picture": "",
+      "verifiedStatus": false,
+      "id": 3
+    },
+    {
+      "username": "byunbaek1222",
+      "email": "byunbaek@gmai.com",
+      "password": "Byunbaek12_*",
+      "fullname": "",
+      "bio": "",
+      "profile_picture": "",
+      "verifiedStatus": false,
+      "id": 4
+    }
   ]
 }

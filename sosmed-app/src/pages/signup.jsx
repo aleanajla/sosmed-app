@@ -1,4 +1,4 @@
-import { Box, Center, Flex, Spacer, Text, Image} from "@chakra-ui/react";
+import { Box, Center, Flex, Spacer, Text} from "@chakra-ui/react";
 import React from "react";
 import SignUpForm from "../components/forms/signupForm";
 import { signupIMG } from "../assets";
